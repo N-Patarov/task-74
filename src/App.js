@@ -15,7 +15,7 @@ function App() {
     } else {
       tru=true;
     }
-  },[text, setText])
+  },[text])
 
   return (
     <div className="App">
